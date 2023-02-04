@@ -1,0 +1,19 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "single page application without any framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jothi137/spa-no-framework.git"
+  },
+  "author": "Jothirlatha Venkataraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jothi137/spa-no-framework/issues"
+  },
+  "homepage": "https://github.com/jothi137/spa-no-framework#readme"
+}
